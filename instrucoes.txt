@@ -1,1 +1,1 @@
-O Triângulo de Pascal está desenvolvido na linguagem Python. Para executar ulitize algum compilador Python online, como por exemplo https://www.programiz.com/python-programming/online-compiler
+O Triângulo de Pascal está desenvolvido na linguagem Python. Para executar abra o arquivo index.py com algum editor de texto e ulitize algum compilador Python online, como por exemplo https://www.programiz.com/python-programming/online-compiler
